@@ -1,6 +1,11 @@
 package com.example.shopping
 
-import io.flutter.embedding.android.FlutterActivity
+import android.os.Parcel
+import android.os.Parcelable
 
-class MainActivity: FlutterActivity() {
+
+
+
+open class FlutterActivity {
+
 }
